@@ -4,10 +4,10 @@ This is the project Aerial photography image segmentation withVGG16-FCN which de
 
 
 ## Requirements
-- Python:3.6
-- Tensorflow:1.6
-- Keras:2.0.7
-- Scikit-image and Matplotlib standard library
+- Python:3.6 
+- Tensorflow:1.6  
+- Keras:2.0.7 
+- Scikit-image and Matplotlib standard library  
 
 
 ## Code Organizations
