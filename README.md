@@ -11,8 +11,8 @@ This is the project Aerial photography image segmentation withVGG16-FCN which de
 
 
 ## Code Organizations
-final.py                -- main programming file
-dataloader.py           -- tools for loading training and test data of aerial images
+final.py                -- main programming file  
+dataloader.py           -- tools for loading training and test data of aerial images  
 FCN32.py                -- model construction for VGG-FCN32
 FCN8.py                 -- model construction for VGG-FCN8
 VGGUnet.py              -- model construction for VGG-UNet
