@@ -30,7 +30,7 @@ $2: the directory of training images
 $3: the directory of training labels (image masks)  
 $4: the directory of validation image  
 $5: the directory of validation labels (image masks)  
-$6: specify the training model: VGG16-FCN32, VGG16-FCN8, VGG16-UNet  
+$6: specify the training model: VGG16-FCN32, VGG16-FCN8, VGG16-UNet, ResNet50-FCN8  
 
 2. Testing:
 ```
